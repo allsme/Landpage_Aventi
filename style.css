@@ -1,0 +1,110 @@
+/* Base */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.titulo01{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 100px;
+    font-weight: 700;
+    color: #000;
+}
+
+.titulo02{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: #005CFF;
+}
+
+.titulo03{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    color: #005CFF;
+}
+.titulo04{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.titulo05{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+/* faixa de descontos */
+.descontos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 14px;
+    background-color: #005CFF;
+    padding: 7px;
+    font-weight: 700;
+    height: 30px;
+}
+
+.descontos_p{
+    color: #fff;
+    background-color: #005CFF;
+}
+.marcador{
+    background-color: #6220C1;
+    width: 63px;
+    height: 16px;
+    border-radius: 4px;
+    padding: 0px 2px 0px 2px;
+}
+
+.normal{
+    background-color: #005CFF;
+    font-weight: 400;
+}
+
+/* header */
+
+.inicio{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #fff;
+    padding: 10px 20px;
+}
+
+.search_box{
+    display: flex;
+    align-items: center;
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 594px;
+    height: 40px;
+    padding: 8px 12px 8px 12px;
+    box-sizing: border-box;
+}
+
+.search_box input{
+    border: none;
+    outline: none;
+    width: 100%;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.area_cliente{
+    display: flex;
+    ;
+}
+
+/* body */
+
+/* footer */
+
+/* embaixo do footer */
